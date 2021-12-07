@@ -3,7 +3,7 @@ title: Featured Image
 description: Post with featured image.
 toc: true
 authors:
-  - hdrwalker
+  - Example Author
 tags:
   - image
 categories:
@@ -12,8 +12,7 @@ series:
   - Themes Guide
 date: '2020-05-26'
 lastmod: '2020-05-26'
-featuredImage: 
-  # images/hero-right.jpg
+featuredImage: images/hero-right.jpg
 draft: false
 ---
 

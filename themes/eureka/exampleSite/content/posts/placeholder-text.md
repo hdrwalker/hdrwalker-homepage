@@ -3,7 +3,8 @@ title: Placeholder Text
 description: Lorem Ipsum Dolor Si Amet
 toc: true
 authors:
-  - hdrwalker
+  - Hugo Authors
+  - Example Author
 tags:
   - markdown
   - text

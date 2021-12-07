@@ -3,7 +3,7 @@ title: Emoji Support
 description: Guide to emoji usage in Hugo
 toc: true
 authors:
-  - hdrwalker
+  - Hugo Authors
 tags:
   - emoji
 categories:

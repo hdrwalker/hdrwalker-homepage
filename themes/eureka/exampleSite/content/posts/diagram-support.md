@@ -3,7 +3,7 @@ title: Diagram Support
 description:
 toc: true
 authors:
-  - hdrwalker
+  - example-author
 tags:
 categories:
 series:

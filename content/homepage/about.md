@@ -1,12 +1,12 @@
 ---
-title: Example Author
+title: hdrwalker
 draft: false
-role: Example Role
+role: Works in Data Science
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: Someone who is interested in mathematics, statistics and machine learning
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: 
+  url: 
 social:
   # - icon: envelope
   #   iconPack: fas

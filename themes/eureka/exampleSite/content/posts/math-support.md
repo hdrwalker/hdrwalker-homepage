@@ -3,7 +3,7 @@ title: Math Support
 description:
 toc: true
 authors:
-  - hdrwalker
+  - example-author
 tags:
   - math
   
